@@ -1,0 +1,98 @@
+Dashboards for Sales Representatives
+
+Sales Overview Home (Embedded)
+img:  https://resources.help.salesforce.com/images/5c26b9629ffb8da1e34b3429566a4bf8.png
+
+Accounts
+img:  https://resources.help.salesforce.com/images/e0dd75214a9aeb903467a218540c4181.png
+
+Sales Rep Overview
+img:  https://resources.help.salesforce.com/images/7c878b3300cb372a636e1e02d4fa1eeb.png
+
+Trending
+img:  https://resources.help.salesforce.com/images/9bbbe96a11b67adcf28a6abfca8d913c.png
+
+Whitespace (individual)
+img:  https://resources.help.salesforce.com/images/fcf9deea466d7335d8878128c2eae302.png
+
+
+
+Dashboards for Sales Executives
+
+
+Executive Overview – Pipeline Performance
+img:  https://resources.help.salesforce.com/images/0e2dc4ac9bb270341e8da333d9ba21cd.png
+
+Executive Overview – Sales Performance
+img:  https://resources.help.salesforce.com/images/122502d22bb52916981acda7e10180bd.png
+
+Executive Overview – Service Performance
+img:  https://resources.help.salesforce.com/images/43441bf559b9bf43c474da13d3b22c18.png
+
+
+
+Dashboards for Sales Operations
+
+
+Company Overview
+img:  https://resources.help.salesforce.com/images/bd32c902fd7b88d99601f56200ebff3b.png
+
+Company Trending
+img: https://resources.help.salesforce.com/images/9bbbe96a11b67adcf28a6abfca8d913c.png  
+
+Lead Analysis
+img:  https://resources.help.salesforce.com/images/dafe99272f44b4309fe0ec122fb4aa3b.png
+
+Sales Performance (Operations)
+img:  https://resources.help.salesforce.com/images/41bb115988347bd2c9c4e4774597777b.png
+
+Sales Stage Analysis
+img:  https://resources.help.salesforce.com/images/1f1b29153e7526550ee48ff2acf417ff.png
+
+
+General Purpose and Embedded Dashboards
+
+
+Sales Analytics Home Dashboard
+img:  https://resources.help.salesforce.com/images/e03fce2c09065a3a9ab4912f55a23e01.png
+
+Sales Analytics Account Dashboard (Embedded)
+img:  https://resources.help.salesforce.com/images/2b5f72a55a133e5b8f89082eaff7a715.png
+
+Sales Analytics Opportunity Dashboard (Embedded)
+img:  https://resources.help.salesforce.com/images/ff5bd72c8a38962283d9c418ecb73d33.png
+
+Sales Analytics Sales Overview Home (Embedded)
+img: https://resources.help.salesforce.com/images/5c26b9629ffb8da1e34b3429566a4bf8.png 
+
+
+
+Dashboards for Sales Managers
+
+
+Sales Analytics Forecast Dashboard
+img:  https://resources.help.salesforce.com/images/e4ae92e8c5a36eaf12dd8dc96e5c8840.png
+
+Sales Analytics Leaderboard Dashboard
+img:  https://resources.help.salesforce.com/images/7a945c6cc6e7b325f9b2f5c7964750e9.png
+
+Sales Analytics Team Activities Dashboard
+img:  https://resources.help.salesforce.com/images/fbcbc3882ed8e7c270c4a8d82f07b9d3.png
+
+Sales Analytics Team Benchmark Dashboard
+img: https://resources.help.salesforce.com/images/1d772c614477796dd01c4fe758d99a16.png 
+
+Sales Analytics Trending Dashboards
+img:  https://resources.help.salesforce.com/images/9bbbe96a11b67adcf28a6abfca8d913c.png
+
+Sales Analytics Team Whitespace Dashboard
+img:  https://resources.help.salesforce.com/images/fcf9deea466d7335d8878128c2eae302.png
+
+
+
+
+
+
+
+
+

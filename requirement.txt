@@ -1,0 +1,44 @@
+I think this is a good start
+
+We would need to break it down by category for example
+
+Dashboards for Sales Representatives
+
+would have indented 5 sub links
+
+Sales Overview Home (Embedded)
+Accounts
+Sales Rep Overview
+Trending
+Whitespace (individual)
+
+Dashboards for Sales Executives would have 3 sublinks
+
+Executive Overview – Pipeline Performance
+Executive Overview – Sales Performance
+Executive Overview – Service Performance
+
+Dashboards for Sales Operations would have 5 sublinks
+
+Company Overview
+Company Trending
+Lead Analysis
+Sales Performance (Operations)
+Sales Stage Analysis
+
+And then we can list in Others the rest such as 1) Sales Analytics Home Dashboard 2) Sales Analytics Account Dashboard (Embedded) and so on
+
+Maybe you can just do one for example you could do the
+
+General Purpose and Embedded Dashboards
+Sales Analytics Home
+Account (Embedded)
+Opportunity (Embedded)
+Sales Overview Home (Embedded)
+Dashboards for Sales Managers
+Forecast
+Leaderboard
+Team Activities
+Team Benchmark
+Team Trending
+Team Whitespace
